@@ -188,6 +188,9 @@ contract MultiSignatureWallet {
         );
     }
 
+
+project:0xc72f65eB84f635b582fBF38DEC51b158F9F984A3
+
     function getBalance() public view returns (uint256) {
         return address(this).balance;
     }
